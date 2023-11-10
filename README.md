@@ -1,9 +1,9 @@
 # Spread-good
 Destiny cookie type website
 
-## the folder contains front-end and back-end files, to start the website:
-1. Go to my-app inside Frontend folder, type "npm start" inside the terminal;
-2. Go to Backend folder, type "node app.js" inside the terminal.
+## The folder contains front-end and back-end files, to start the website:
+1. Go to 'my-app' inside "Frontend" folder, type "npm start" inside the terminal;
+2. Go to "Backend" folder, type "node app.js" inside the terminal.
 
 ## How does it work?
 * You can press the "Cookie" button to get your destiny for the day,
