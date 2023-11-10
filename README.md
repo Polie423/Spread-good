@@ -13,3 +13,4 @@ Destiny cookie type website
 # My purpose by working on that website was to spread good thoughts and make people feel better.
 
 
+note for Saar: the post axios does'nt pass any information to the database, I couldn't solve this issue alone...
