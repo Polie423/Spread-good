@@ -13,10 +13,13 @@ router.get("/", async (req, res) => {
 
 
 router.post('/',  async (req,res) => {
+    console.log(req.body.subject);
+    console.log(req.body.content)
     const newDestiny = new Destiny({
         subject: req.body.subject,
         content: req.body.content,
     });
+    console.log(newDestiny);
     await newDestiny.save();
     res.send(newDestiny);
 });
